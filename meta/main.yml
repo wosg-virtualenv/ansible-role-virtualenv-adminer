@@ -1,0 +1,20 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: virtualenv
+  description: Installs Adminer for Database management.
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - system
+    - database
+    - development
